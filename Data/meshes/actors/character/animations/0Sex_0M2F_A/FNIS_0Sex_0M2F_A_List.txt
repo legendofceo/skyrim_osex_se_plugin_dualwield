@@ -1,4 +1,4 @@
-﻿b -Tn 0Sx0M2F_Ho-DoubleTrouble_2 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6Sy9Sy9\Ho\DoubleTrouble\0Sx0M2F_Ho-DoubleTrouble_2.hkx
+b -Tn 0Sx0M2F_Ho-DoubleTrouble_2 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6Sy9Sy9\Ho\DoubleTrouble\0Sx0M2F_Ho-DoubleTrouble_2.hkx
 b -Tn 0Sx0M2F_Ho-DoubleTrouble_1 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6Sy9Sy9\Ho\DoubleTrouble\0Sx0M2F_Ho-DoubleTrouble_1.hkx
 b -Tn 0Sx0M2F_Ho-DoubleTrouble_0 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6Sy9Sy9\Ho\DoubleTrouble\0Sx0M2F_Ho-DoubleTrouble_0.hkx
 
@@ -98,28 +98,6 @@ b -a,Tn 0Sx0M2F_DHJ-GlamStroke+102CX_0 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6Sy2
 b -a,Tn 0Sx0M2F_DHJ-GlamStroke+11KN_2 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6Sy2Sy9\DHJ\GlamStroke\0Sx0M2F_DHJ-GlamStroke+11KN_2.hkx
 b -a,Tn 0Sx0M2F_DHJ-GlamStroke+11KN_1 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6Sy2Sy9\DHJ\GlamStroke\0Sx0M2F_DHJ-GlamStroke+11KN_1.hkx
 b -a,Tn 0Sx0M2F_DHJ-GlamStroke+11KN_0 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6Sy2Sy9\DHJ\GlamStroke\0Sx0M2F_DHJ-GlamStroke+11KN_0.hkx
-
-
-
-b -a,Tn 0Sx0M2F_DHJ-ParlorDHJO+11ST_2 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO\0Sx0M2F_DHJ-ParlorDHJO+11ST_2.hkx
-b -a,Tn 0Sx0M2F_DHJ-ParlorDHJO+11ST_1 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO\0Sx0M2F_DHJ-ParlorDHJO+11ST_1.hkx
-b -a,Tn 0Sx0M2F_DHJ-ParlorDHJO+11ST_0 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO\0Sx0M2F_DHJ-ParlorDHJO+11ST_0.hkx
-
-
-b -Tn 0Sx0M2F_DHJ-ParlorDHJO810A_S0_2 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO810A\0Sx0M2F_DHJ-ParlorDHJO810A_S0_2.hkx
-b -Tn 0Sx0M2F_DHJ-ParlorDHJO810A_S0_1 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO810A\0Sx0M2F_DHJ-ParlorDHJO810A_S0_1.hkx
-b -Tn 0Sx0M2F_DHJ-ParlorDHJO810A_S0_0 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO810A\0Sx0M2F_DHJ-ParlorDHJO810A_S0_0.hkx
-
-b -Tn 0Sx0M2F_DHJ-ParlorDHJO810A_S1_2 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO810A\0Sx0M2F_DHJ-ParlorDHJO810A_S1_2.hkx
-b -Tn 0Sx0M2F_DHJ-ParlorDHJO810A_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO810A\0Sx0M2F_DHJ-ParlorDHJO810A_S1_1.hkx
-b -Tn 0Sx0M2F_DHJ-ParlorDHJO810A_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO810A\0Sx0M2F_DHJ-ParlorDHJO810A_S1_0.hkx
-
-b -Tn 0Sx0M2F_DHJ-ParlorDHJO810A_S2_2 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO810A\0Sx0M2F_DHJ-ParlorDHJO810A_S2_2.hkx
-b -Tn 0Sx0M2F_DHJ-ParlorDHJO810A_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO810A\0Sx0M2F_DHJ-ParlorDHJO810A_S2_1.hkx
-b -Tn 0Sx0M2F_DHJ-ParlorDHJO810A_S2_0 ..\..\..\..\0SA\mod\0Sex\anim\0M2F\Sy6KNy2Sy9\DHJ\ParlorDHJO810A\0Sx0M2F_DHJ-ParlorDHJO810A_S2_0.hkx
-
-
-
 
 
 
