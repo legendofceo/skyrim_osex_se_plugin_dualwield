@@ -1,0 +1,9 @@
+<scene id="0M2F|Sy6!Sy9!Sy9|Ho|DoubleTrouble+11Turn902" actors="3" style="OScene">
+<info name="Wuvvy, Affection |+ A Visitor Arrives" animator="Ceo"/>
+<anim id="0Sx0M2F_Ho-DoubleTrouble+11Turn902" t="T" l="6" dest="0M2F|Sy6!Sy2!Sy9|Ho|WarmWelcome">
+<dfx a="0" fx="1"/>
+<dfx a="1" fx="1"/>
+<dfx a="2" fx="1"/>
+</anim>
+<visitor ix="1" a="2"/>
+</scene>
